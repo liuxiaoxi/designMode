@@ -7,7 +7,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		Directory d = new Directory();//指挥官
-		IBuilder iba = new ConcreteBuilderA();//晓溪在这里增加了一些git的测试!!
+		IBuilder iba = new ConcreteBuilderA();//23223
 		IBuilder ibb = new ConcreteBuilderB();
 		d.directory(iba);
 		Product p1=iba.getResult();

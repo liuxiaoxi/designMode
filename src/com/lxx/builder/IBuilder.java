@@ -7,7 +7,7 @@ package com.lxx.builder;
  * @description: 工厂抽象类
  * @author： lxx.sking
  * @created: 2013-7-31 下午3:48:21 
- * @version：$1.0$ 
+ * @version：$Id$ 
  * @copyright ©1995-2013 Changchun Jiacheng Project of the Network Co.,Ltd.All Rights Reserved.
  */
 
